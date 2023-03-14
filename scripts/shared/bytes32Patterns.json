@@ -1,0 +1,267 @@
+{
+  "AddressResolver": {
+    "bytes": "0x416464726573735265736f6c7665720000000000000000000000000000000000",
+    "block": 11145370,
+    "contractName": "AddressResolver"
+  },
+  "ProxyERC20": {
+    "bytes": "0x50726f7879455243323000000000000000000000000000000000000000000000",
+    "block": 11245790,
+    "contractName": "SynthetixProxy"
+  },
+  "SynthetixTokenState": {
+    "bytes": "",
+    "block": 11245793,
+    "contractName": "SynthetixTokenState"
+  },
+  "Synthetix": {
+    "bytes": "0x53796e7468657469780000000000000000000000000000000000000000000000",
+    "block": 11245796,
+    "contractName": "Synthetix"
+  },
+  "SynthrIssuer": {
+    "bytes": "0x4973737565720000000000000000000000000000000000000000000000000000",
+    "block": 11245804,
+    "contractName": "Issuer"
+  },
+  "SafeDecimalMath": {
+    "bytes": "0x53616665446563696d616c4d6174680000000000000000000000000000000000",
+    "block": 11245801,
+    "contractName": "SafeDecimalMath"
+  },
+  "ProxyERC20sUSD": {
+    "bytes": "0x50726f7879455243323073555344000000000000000000000000000000000000",
+    "block": 11245807,
+    "contractName": "SyUSDProxy"
+  },
+  "TokenStatesUSD": {
+    "bytes": "",
+    "block": 11245810,
+    "contractName": "SyUSDTokenState"
+  },
+  "ProxysETH": {
+    "bytes": "0x50726f7879734554480000000000000000000000000000000000000000000000",
+    "block": 11245818,
+    "contractName": "SyETHProxy"
+  },
+  "TokenStatesETH": {
+    "bytes": "",
+    "block": 11245821,
+    "contractName": "SyETHTokenState"
+  },
+  "ExchangeRates": {
+    "bytes": "0x45786368616e6765526174657300000000000000000000000000000000000000",
+    "block": 11245840,
+    "contractName": "ExchangeRatesWithDexPricing"
+  },
+  "FlexibleStorage": {
+    "bytes": "0x466c657869626c6553746f726167650000000000000000000000000000000000",
+    "block": 11245843,
+    "contractName": "FlexibleStorage"
+  },
+  "DebtCache": {
+    "bytes": "0x4465627443616368650000000000000000000000000000000000000000000000",
+    "block": 11245846,
+    "contractName": "DebtCache"
+  },
+  "FeePoolProxy": {
+    "bytes": "",
+    "block": 11245849,
+    "contractName": "FeePoolProxy"
+  },
+  "FeePool": {
+    "bytes": "0x466565506f6f6c00000000000000000000000000000000000000000000000000",
+    "block": 11245852,
+    "contractName": "FeePool"
+  },
+  "Exchanger": {
+    "bytes": "0x45786368616e6765720000000000000000000000000000000000000000000000",
+    "block": 11245858,
+    "contractName": "Exchanger"
+  },
+  "LiquidatorRewards": {
+    "bytes": "0x4c697175696461746f7252657761726473000000000000000000000000000000",
+    "block": 11245864,
+    "contractName": "LiquidatorRewards"
+  },
+  "SystemStatus": {
+    "bytes": "0x53797374656d5374617475730000000000000000000000000000000000000000",
+    "block": 11245867,
+    "contractName": "SystemStatus"
+  },
+  "RewardEscrow": {
+    "bytes": "0x526577617264457363726f770000000000000000000000000000000000000000",
+    "block": 11246332,
+    "contractName": "RewardEscrow"
+  },
+  "RewardsDistribution": {
+    "bytes": "0x52657761726473446973747269627574696f6e00000000000000000000000000",
+    "block": 11246956,
+    "contractName": "RewardsDistribution"
+  },
+  "Liquidator": {
+    "bytes": "0x4c697175696461746f7200000000000000000000000000000000000000000000",
+    "block": 11246959,
+    "contractName": "Liquidator"
+  },
+  "RewardEscrowV2": {
+    "bytes": "0x526577617264457363726f775632000000000000000000000000000000000000",
+    "block": 11246344,
+    "contractName": "RewardEscrowV2"
+  },
+  "SupplySchedule": {
+    "bytes": "0x537570706c795363686564756c65000000000000000000000000000000000000",
+    "block": 11254553,
+    "contractName": "SupplySchedule"
+  },
+  "EternalStorage": {
+    "bytes": "",
+    "block": 11246965,
+    "contractName": "EternalStorage"
+  },
+  "SynthetixDebtShare": {
+    "bytes": "0x53796e7468657469784465627453686172650000000000000000000000000000",
+    "block": 11245861,
+    "contractName": "SynthetixDebtShare"
+  },
+  "ext:Messenger": {
+    "bytes": "0x6578743a4d657373656e67657200000000000000000000000000000000000000",
+    "block": 11225484,
+    "contractName": "Lib_ResolvedDelegateProxy"
+  },
+  "ovm:SynthetixBridgeToBase": {
+    "bytes": "0x6f766d3a53796e746865746978427269646765546f4261736500000000000000",
+    "block": 11247385,
+    "contractName": "SyDASHTokenState"
+  },
+  "SynthetixBridgeEscrow": {
+    "bytes": "0x53796e746865746978427269646765457363726f770000000000000000000000",
+    "block": 11246994,
+    "contractName": "SynthetixBridgeEscrow"
+  },
+  "SynthsUSD": {
+    "bytes": "0x53796e7468735553440000000000000000000000000000000000000000000000",
+    "block": 11245813,
+    "contractName": "SyUSD"
+  },
+  "SynthsETH": {
+    "bytes": "0x53796e7468734554480000000000000000000000000000000000000000000000",
+    "block": 11245813,
+    "contractName": "SyETH"
+  },
+  "SynthsDASH": {
+    "bytes": "0x53796e7468734441534800000000000000000000000000000000000000000000",
+    "block": 11247388,
+    "contractName": "SyDASH"
+  },
+  "FeePoolEternalStorage": {
+    "bytes": "0x466565506f6f6c457465726e616c53746f726167650000000000000000000000",
+    "block": 11245855,
+    "contractName": "FeePoolEternalStorage"
+  },
+  "CollateralManager": {
+    "bytes": "0x436f6c6c61746572616c4d616e61676572000000000000000000000000000000",
+    "block": 11246981,
+    "contractName": "CollateralManager"
+  },
+  "CollateralManagerState": {
+    "bytes": "",
+    "block": 11246978,
+    "contractName": "CollateralManagerState"
+  },
+  "WrapperFactory": {
+    "bytes": "0x57726170706572466163746f7279000000000000000000000000000000000000",
+    "block": 11246985,
+    "contractName": "WrapperFactory"
+  },
+  "EtherWrapper": {
+    "bytes": "0x4574686572577261707065720000000000000000000000000000000000000000",
+    "block": 11246988,
+    "contractName": "EtherWrapper"
+  },
+  "FuturesMarketManager": {
+    "bytes": "0x467574757265734d61726b65744d616e61676572000000000000000000000000",
+    "block": 11246991,
+    "contractName": "FuturesMarketManager"
+  },
+  "DelegateApprovals": {
+    "bytes": "0x44656c6567617465417070726f76616c73000000000000000000000000000000",
+    "block": 11246968,
+    "contractName": "DelegateApprovals"
+  },
+  "SynthetixEscrow": {
+    "bytes": "0x53796e746865746978457363726f770000000000000000000000000000000000",
+    "block": 11246972,
+    "contractName": "SynthetixEscrow"
+  },
+  "SynthRedeemer": {
+    "bytes": "0x53796e746852656465656d657200000000000000000000000000000000000000",
+    "block": 11246975,
+    "contractName": "SynthRedeemer"
+  },
+  "ext:AggregatorIssuedSynths": {
+    "bytes": "0x6578743a41676772656761746f7249737375656453796e746873000000000000",
+    "block": 11263854,
+    "contractName": "IssuedSynthsAggregator"
+  },
+  "ext:AggregatorDebtRatio": {
+    "bytes": "0x6578743a41676772656761746f7244656274526174696f000000000000000000",
+    "block": 11263866,
+    "contractName": "DebtRatioAggregator"
+  },
+  "SynthetixBridgeToOptimism": {
+    "bytes": "0x53796e746865746978427269646765546f4f7074696d69736d00000000000000",
+    "block": 11247490,
+    "contractName": "SynthetixBridgeToOptimism"
+  },
+  "base:SynthetixBridgeToOptimism": {
+    "bytes": "0x626173653a53796e746865746978427269646765546f4f7074696d69736d0000",
+    "block": 11247490,
+    "contractName": "SynthetixBridgeToOptimism"
+  },
+  "ExchangeState": {
+    "bytes": "0x45786368616e6765537461746500000000000000000000000000000000000000",
+    "block": 11247953,
+    "contractName": "ExchangeState"
+  },
+  "ExchangeCircuitBreaker": {
+    "bytes": "0x45786368616e676543697263756974427265616b657200000000000000000000",
+    "block": 11248005,
+    "contractName": "ExchangeCircuitBreaker"
+  },
+  "TradingRewards": {
+    "bytes": "0x54726164696e6752657761726473000000000000000000000000000000000000",
+    "block": 11248002,
+    "contractName": "TradingRewards"
+  },
+  "VirtualSynthMastercopy": {
+    "bytes": "0x5669727475616c53796e74684d6173746572636f707900000000000000000000",
+    "block": 11248044,
+    "contractName": "VirtualSynthMastercopy"
+  },
+  "SystemSettings": {
+    "bytes": "0x53797374656d53657474696e6773000000000000000000000000000000000000",
+    "block": 11254235,
+    "contractName": "SystemSettings"
+  },
+  "SystemSettingsLib": {
+    "bytes": "",
+    "block": 11254232,
+    "contractName": "SystemSettingsLib"
+  },
+  "SynthUtil": {
+    "bytes": "0x53796e74685574696c0000000000000000000000000000000000000000000000",
+    "block": 11269343,
+    "contractName": "SynthUtil"
+  },
+  "Depot": {
+    "bytes": "0x4465706f74000000000000000000000000000000000000000000000000000000",
+    "block": 11274416,
+    "contractName": "Depot"
+  },
+  "DappMaintenance": {
+    "bytes": "0x446170704d61696e74656e616e63650000000000000000000000000000000000",
+    "block": 11274419,
+    "contractName": "DappMaintenance"
+  }
+}
